@@ -3,7 +3,7 @@ layout: cv
 title: Marina Warnes' Resume
 ---
 # Marina Warnes
-Aspiring Accountant, Outdoors lover
+Aspiring Accountant, Outdoor Lover!
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
