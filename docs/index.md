@@ -53,7 +53,7 @@ __Professional Home and Landscape__, Groundskeeper
 - Provided custom landscape maintenance and installation for over twenty customers each month
 
 `November 2017 - September 2020`
-__#c Grill__
+__3C Grill__
 
 - Catered to over 50 customers' needs each shift in a professional manner
 - Coordinated with Supervising Manager to oversee one supply order each week
@@ -72,7 +72,7 @@ __Pinnacle Management Group__,
 ## Service History
 
 `2023-2023`
-__BYU-I I-Representitive Volunteer__, Rexburg, Idaho
+__BYU-Idaho I-Representitive Volunteer__, Rexburg, Idaho
 
 `2022-2023`
 __Accounting Tutor__, Rexburg, Idaho
